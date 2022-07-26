@@ -1,0 +1,11 @@
+{
+  "passOverviewFabLabel": "Add pass",
+  "passOverviewTitle": "Pass Wallet",
+
+  "passOverviewDrawerLabelWallet": "Wallet",
+  "passOverviewDrawerPasses": "Passes",
+  "passOverviewDrawerArchive": "Archive",
+  "passOverviewDrawerTrash": "Trash",
+  "passOverviewDrawerLabelMore": "More",
+  "passOverviewDrawerSettings": "Settings"
+}
